@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MiniPrint Linux
+Comment=Cliente open-source para mini impresoras termicas Bluetooth
+Exec=miniprint.py
+Icon=io.github.eidan_linux.MiniPrint
+Terminal=false
+Categories=Utility;

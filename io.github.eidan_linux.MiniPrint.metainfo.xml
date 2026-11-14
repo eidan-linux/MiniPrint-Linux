@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.eidan_linux.MiniPrint</id>
+  <name>MiniPrint Linux</name>
+  <summary>Cliente open-source para mini impresoras termicas Bluetooth MX06</summary>
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  <content_rating type="oars-1.1" />
+  <url type="homepage">https://github.com/eidan-linux/MiniPrint-Linux</url>
+  <description>
+    <p>Aplicacion de escritorio para imprimir imagenes en mini impresoras termicas Bluetooth (MX06, GB01, GT01) ajustando la temperatura del cabezal, el contraste y la velocidad.</p>
+  </description>
+  <launchable type="desktop-id">io.github.eidan_linux.MiniPrint.desktop</launchable>
+  <releases>
+    <release version="2.0" date="2026-11-14"/>
+  </releases>
+</component>
